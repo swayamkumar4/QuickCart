@@ -9,10 +9,13 @@ const Footer = () => {
         <div className="w-4/5">
           <Image className="w-28 md:w-32" src={assets.logo} alt="logo" />
           <p className="mt-6 text-sm">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            Welcome to QuickCart we're so glad you're here! 
+            Your satisfaction is our top priority, and we're 
+            committed to providing you with the best possible experience. 
+            Whether you're exploring our offerings or need assistance with 
+            anything, our customer service team is always ready to help. 
+            We're here to make sure your journey with us is smooth, enjoyable, and stress-free. 
+            If you have any questions or need support, don't hesitate to reach out we're just a message away!
           </p>
         </div>
 
@@ -40,14 +43,14 @@ const Footer = () => {
           <div>
             <h2 className="font-medium text-gray-900 mb-5">Get in touch</h2>
             <div className="text-sm space-y-2">
-              <p>+1-234-567-890</p>
-              <p>contact@greatstack.dev</p>
+              <p>+91-7903197323</p>
+              <p>contact@swayam.dev</p>
             </div>
           </div>
         </div>
       </div>
       <p className="py-4 text-center text-xs md:text-sm">
-        Copyright 2025 © GreatStack.dev All Right Reserved.
+        Copyright 2025 © Swayam.dev All Right Reserved.
       </p>
     </footer>
   );
